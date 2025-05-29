@@ -6,7 +6,7 @@ export class Requirement {
     postedDate:Date;
     status:string;
     duration:string;
-    mose:string;
+    mode:string;
     location:string;
     skillLevel:string;
     budget:number;
